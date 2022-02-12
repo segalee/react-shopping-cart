@@ -1,0 +1,67 @@
+{
+"product": [
+{"_id": "product1",
+    "title": "Jumpsuit",
+    "img": "1",
+    "description": "Flattering green jumpsuit",
+    "price": 39.99,
+    "availableSizes": ["S", "M", "L"]
+},
+{"_id": "product2",
+    "title": "Striped-Suit",
+    "img": "2",
+    "description": "Dreamy Suit",
+    "price": 69.99,
+    "availableSizes": [ "L", "XL", "XXL"]
+},
+{"_id": "product3",
+    "title": "Crop-top",
+    "img": "3",
+    "description": "White Stylish crop-top",
+    "price": 19.99,
+    "availableSizes": ["S", "XXL"]
+},
+{"_id": "product4",
+    "title": "Tracksuit",
+    "img": "4",
+    "description": "Classic tracksuit",
+    "price": 89.99,
+    "availableSizes": ["S", "L", "XXL"]
+},
+{"_id": "product5",
+    "title": "Top",
+    "img": "5",
+    "description": "Classic black top",
+    "price": 29.99,
+    "availableSizes": [ "M", "XL"]
+},
+{"_id": "product6",
+    "title": "Tracksuit",
+    "img": "6",
+    "description": "The ultimative skintone tracksuit",
+    "price": 89.99,
+    "availableSizes": ["L"]
+},
+{"_id": "product7",
+    "title": "Blazer",
+    "img": "7",
+    "description": "Oversized blazer",
+    "price": 139.99,
+    "availableSizes": ["S", "XL",  "XXL"]
+},
+{"_id": "product8",
+    "title": "Dress",
+    "img": "8",
+    "description": "Polka-dots sunny dress",
+    "price": 39.99,
+    "availableSizes": ["M"]
+},
+{"_id": "product9",
+    "title": "Bodysuit",
+    "img": "9",
+    "description": "Flattering budysuit",
+    "price": 79.99,
+    "availableSizes": ["S", "M", "L", "XL"]
+}
+]
+}
