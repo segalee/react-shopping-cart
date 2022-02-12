@@ -1,0 +1,15 @@
+.filter {
+  justify-content: space-evenly;
+  height: 5rem;
+  align-items: center;
+  color: #4c4c4c;
+  //   background-color: #f7f7f7;
+  margin-top: 20px;
+  select {
+    font-family: system-ui, sans-serif;
+    color: #4c4c4c;
+    border: 1px solid #2a2021;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+}
