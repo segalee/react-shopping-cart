@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background-color: lighten($clr2, 20%);
+  color: black;
+}
+
+html {
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+body,
+#root {
+  height: 100vh;
+  margin: 0;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+img {
+  width: 100%;
+}
+
+// input,
+// select {
+//   height: 25px;
+//   border-radius: 5px;
+//   border: none;
+//   box-shadow: 0 1px 2px 0 rgb(60 60 60 / 20%), 0 2px 8px 1px rgb(60 60 60 / 15%);
+//   margin-bottom: 15px;
+// }
+
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6 {
+//   line-height: 1.2;
+//   margin: 0 0 em(20px, 50px);
+//   font-weight: 400;
+//   color: $clr3;
+// }
+
+// h2 {
+//   color: $clr2;
+// }
+
+// h1 {
+//   font-size: rem(30px);
+//   font-family: system-ui, serif;
+//   color: $clr2;
+// }
+
+// p {
+//   margin: 0 0 1em;
+// }
+
+// button {
+//   border: none;
+//   width: fit-content;
+//   border-radius: 4px;
+//   text-align: center;
+//   font-family: Calibri;
+//   height: 30px;
+//   margin: 5px;
+//   cursor: pointer;
+//   font-weight: 600;
+//   background-color: $clr6;
+//   transition: background-color 0.2s;
+//   &:hover {
+//     background-color: darken($clr6, 5%);
+//   }
+// }
+
+// .hello-user {
+//   font-size: rem(35px);
+//   color: darken($clr2, 20%);
+//   grid-area: 1;
+//   // width: 100vw;
+// }
+
+// // .add-filter {
+// //   justify-content: space-evenly;
+// // }
